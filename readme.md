@@ -1,0 +1,1 @@
+Cloudflare doesn't provide a button to bulk delete records, leaving us to build our own script to bulk delete records under a certain domain.
